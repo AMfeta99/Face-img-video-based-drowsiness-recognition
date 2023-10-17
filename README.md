@@ -11,5 +11,5 @@ Development of robust real-time Drowsiness detector system to detect driver fati
 Development ML\DL models for detecting drowsiness recognition based on facial image/video. 
 
 ## Scripts/Files
-- pp_presentation (pdf/slides that summarize the intership results and were used to support the oral presentation)
+- pp_presentation (pdf/slides that summarize the internship results and were used to support the oral presentation)
 - python_notebook (python implementation: preprocessing, frames visualization, Training loop and testing)
