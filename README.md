@@ -3,11 +3,13 @@
 This repository is dedicated to “AUTOMOTIVE” Project. This was a collaboration with Visual Computing and Machine Intelligence (VCMI) Research Group of | INESC Technology and Science | Porto. The project was further develop and used/tested on Bosch´s system.
 
 ## Goal
-Development of robust Drowsiness detector system to detect driver fatigue.
+Development of robust real-time Drowsiness detector system to detect driver fatigue:
+ - Explore impact of facial dynamic fusion information (landmarks and eyes/mouth images)
+ - Compare the use of DBN with traditional ML classifier (SVM, KNN, DecisionTree)
 
 ## Approach
 Development ML\DL models for detecting drowsiness recognition based on facial image/video. 
 
 ## Scripts/Files
--
--
+- pp_presentation (pdf/slides that summarize the intership results and were used to support the oral presentation)
+- python_notebook (python implementation: preprocessing, frames visualization, Training loop and testing)
