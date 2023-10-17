@@ -6,7 +6,8 @@ This repository is dedicated to “AUTOMOTIVE” Project. This was a collaborati
 Development of robust real-time Drowsiness detector system to detect driver fatigue:
  - Explore impact of facial dynamic fusion information (landmarks and eyes/mouth images)
  - Compare the use of DBN with traditional ML classifier (SVM, KNN, DecisionTree)
- ![image](https://github.com/AMfeta99/Face-img-video-based-drowsiness-recognition/assets/74252797/8011872f-9a9f-4249-95ce-62c93c1fe626)
+   
+![image](https://github.com/AMfeta99/Face-img-video-based-drowsiness-recognition/assets/74252797/8011872f-9a9f-4249-95ce-62c93c1fe626)
 
 
 ## Approach
